@@ -1,0 +1,5 @@
+﻿,Numero_Compras,Numero_Compras,Numero_Compras,Numero_Compras,Numero_Compras,Unidades_Totales,Unidades_Totales,Unidades_Totales,Unidades_Totales,Unidades_Totales,Gasto_Total,Gasto_Total,Gasto_Total,Gasto_Total,Gasto_Total,Precio_Promedio,Precio_Promedio,Precio_Promedio,Precio_Promedio,Precio_Promedio
+,count,mean,median,min,max,count,mean,median,min,max,count,mean,median,min,max,count,mean,median,min,max
+Cluster,,,,,,,,,,,,,,,,,,,,
+0,193,6.42,6.0,4,8,193,18.88,19.0,10,28,193,338.1,338.27,162.64,571.07,193,17.9,17.93,10.2,24.94
+1,407,2.53,3.0,1,6,407,4.39,4.0,1,12,407,58.51,48.66,5.16,180.24,407,12.74,12.53,5.16,21.6
